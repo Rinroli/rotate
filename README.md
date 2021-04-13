@@ -1,5 +1,5 @@
-##Rotate
-#Educational pet project. Created for fun and to admire the beauty of python.
+## Rotate
+# Educational pet project. Created for fun and to admire the beauty of python.
 
 Some *tkinter* magic - rotating cube and tetrahedron.
 
