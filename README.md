@@ -3,10 +3,10 @@
 
 Some *tkinter* magic - rotating cube and tetrahedron.
 
-Examples:
-![Cube](/examples/cube_example.mp4)
+Examples (sorry for *gif* artifacts, in the original there are 60 FPS):
+![Cube](/examples/cube_example.gif)
 
-![Tetrahedron](/examples/tetra_example.mp4)
+![Tetrahedron](/examples/tetra_example.gif)
 
 To run the code, call *main_gui.py* (strange, I know)
 

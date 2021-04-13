@@ -216,9 +216,9 @@ def _make_polygon(vert_s):
 
 
 if __name__ == '__main__':
-    T = Tetrahedron(200)
-    # C = Cube(200)
-    ex = Wind(T)
+    # T = Tetrahedron(200)
+    C = Cube(200)
+    ex = Wind(C)
 
     ex.draw_tetra()
     try:
